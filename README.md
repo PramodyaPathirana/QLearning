@@ -1,2 +1,0 @@
-# QLearning
-Q Learning Example
